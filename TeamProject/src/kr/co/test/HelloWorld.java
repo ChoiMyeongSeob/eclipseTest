@@ -8,5 +8,7 @@ public class HelloWorld {
 		System.out.println("세컨드냐냐냐냐냐");
 		System.out.println("충돌해라");
 		
+
+
 	}
 }
