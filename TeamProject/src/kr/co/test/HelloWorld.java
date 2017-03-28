@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("두번째냐냐냐냐냐냐냐냐냐냐");
 		System.out.println("asdfasdfsadfasd");
 		System.out.println("세컨드냐냐냐냐냐");
+		System.out.println("충돌해라");
 		
 	}
 }
