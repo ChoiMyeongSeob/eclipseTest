@@ -7,6 +7,8 @@ public class SayHello {
 		System.out.println("여기는 충돌테스트를 위한 테스트다");
 
 		System.out.println("dkdkdkdkdkdkdkzlzlzlzlzlzlzl");
-	}
+		
+		System.out.println("nononononononononono");
+}
 
 }
